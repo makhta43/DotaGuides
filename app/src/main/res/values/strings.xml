@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DotaGuides</string>
+    <string name="noGuideString">Oops, there are no guides for this hero. Why not make one?\n Click the button below!</string>
+    <string name="autofilledText">* Name and Location have been autofilled</string>
+
+    <!--  Google maps API key  -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyAifL74wZ-9vhYdawULtYs-kcpYgrgei_Y</string>
+</resources>
